@@ -35,3 +35,29 @@ To run this project on your local machine, follow these steps:
 1. **Clone the repository**
    ```bash
    git clone [https://github.com/BasimIbrahimmm/Internee.pk-Frontend-Redesign.git](https://github.com/BasimIbrahimmm/Internee.pk-Frontend-Redesign.git)
+
+Navigate into the project directory
+---
+Bash
+cd Internee.pk-Frontend-Redesign
+
+
+Install dependencies
+---
+Bash
+npm install
+
+
+Start the development server
+---
+Bash
+npm run dev
+
+
+📂 Project Structure
+├── public/          # Static public assets
+├── src/             # Source files (React components, styles, assets)
+├── .gitignore       # Git ignore file (excludes node_modules)
+├── index.html       # HTML entry point
+├── package.json     # Project dependencies and scripts
+└── vite.config.js   # Vite configuration
