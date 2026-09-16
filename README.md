@@ -1,16 +1,36 @@
-# React + Vite
+# Internee.pk — Front-End Redesign
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive front-end UI redesign of the **Internee.pk** platform built using React and Vite. This project focuses on improved user experience, clean component architecture, and fast performance.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tech Stack
 
-## React Compiler
+* **Framework:** React.js
+* **Build Tool:** Vite
+* **Styling:** CSS3 / Modern Responsive Design
+* **Linter:** Oxlint
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## ✨ Key Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+* **Modern UI/UX:** A revamped layout and visual style for the Internee.pk portal.
+* **Responsive Design:** Seamlessly adapts across mobile, tablet, and desktop screens.
+* **Modular Architecture:** Clean, reusable React components for better maintainability.
+* **Fast Performance:** Instant Hot Module Replacement (HMR) powered by Vite.
+
+---
+
+## 🛠️ Local Setup & Installation
+
+To run this project on your local machine, follow these steps:
+
+### Prerequisites
+* Node.js installed on your system.
+
+### Steps
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/YOUR_GITHUB_USERNAME/Internee.pk-frontend-redesign.git](https://github.com/YOUR_GITHUB_USERNAME/Internee.pk-frontend-redesign.git)
