@@ -55,9 +55,12 @@ npm run dev
 
 
 📂 Project Structure
+Plaintext
 ├── public/          # Static public assets
 ├── src/             # Source files (React components, styles, assets)
 ├── .gitignore       # Git ignore file (excludes node_modules)
 ├── index.html       # HTML entry point
 ├── package.json     # Project dependencies and scripts
 └── vite.config.js   # Vite configuration
+
+
