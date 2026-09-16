@@ -38,19 +38,16 @@ To run this project on your local machine, follow these steps:
 
 Navigate into the project directory
 ---
-Bash
 cd Internee.pk-Frontend-Redesign
 
 
 Install dependencies
 ---
-Bash
 npm install
 
 
 Start the development server
 ---
-Bash
 npm run dev
 
 
