@@ -27,10 +27,11 @@ A modern, responsive front-end UI redesign of the **Internee.pk** platform built
 To run this project on your local machine, follow these steps:
 
 ### Prerequisites
+
 * Node.js installed on your system.
 
 ### Steps
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/BasimIbrahimmm/Internee.pk-Frontend-Redesign.git
+   git clone [https://github.com/BasimIbrahimmm/Internee.pk-Frontend-Redesign.git](https://github.com/BasimIbrahimmm/Internee.pk-Frontend-Redesign.git)
